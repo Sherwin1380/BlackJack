@@ -1,0 +1,13 @@
+C:\Users\48579\source\repos\BJGU\BJGU\bin\Debug\BJGU.exe.config
+C:\Users\48579\source\repos\BJGU\BJGU\bin\Debug\BJGU.exe
+C:\Users\48579\source\repos\BJGU\BJGU\bin\Debug\BJGU.pdb
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.csprojAssemblyReference.cache
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.Form1.resources
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.Properties.Resources.resources
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.csproj.GenerateResource.cache
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.exe
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.pdb
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.csproj.CoreCompileInputs.cache
+C:\Users\48579\source\repos\BJGU\BJGU\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\48579\source\repos\BJGU\BJGU\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\48579\source\repos\BJGU\BJGU\obj\Debug\BJGU.csproj.CopyComplete
